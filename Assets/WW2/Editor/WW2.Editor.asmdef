@@ -1,0 +1,20 @@
+{
+  "name": "WW2.Editor",
+  "rootNamespace": "WW2.Editor",
+  "references": [
+    "WW2.Core",
+    "WW2.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+

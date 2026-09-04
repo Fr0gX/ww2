@@ -1,0 +1,17 @@
+{
+  "name": "WW2.Runtime",
+  "rootNamespace": "WW2.Runtime",
+  "references": [
+    "WW2.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+
